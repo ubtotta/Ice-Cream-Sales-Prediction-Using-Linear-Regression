@@ -5,7 +5,7 @@ Predicting ice cream sales profits based on temperature using Simple Linear Regr
 
 This project uses Simple Linear Regression to analyze the relationship between temperature and ice cream sales profits. The model learns the trend from historical data and predicts expected profit based on temperature.
 
-### Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -13,7 +13,7 @@ This project uses Simple Linear Regression to analyze the relationship between t
 - Matplotlib
 - Scikit-Learn
 
-### Workflow
+## Workflow
 
 - Data Loading
 - Data Exploration
@@ -22,6 +22,6 @@ This project uses Simple Linear Regression to analyze the relationship between t
 - Model Training
 - Prediction
 
-### Results
+## Results
 
 The model successfully identifies a positive linear relationship between temperature and ice cream profits, indicating that higher temperatures generally lead to increased sales.
